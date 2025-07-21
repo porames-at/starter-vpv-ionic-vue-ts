@@ -1,6 +1,6 @@
 # Vue PDF Viewer Starter Toolkit in Vue 3 + Ionic Framework + TypeScript
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/edit/ionic-vue-typescript)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/~/github.com/vue-pdf-viewer/starter-vpv-ionic-vue-ts)
 
 Welcome to the Vue PDF Viewer starter toolkit! This repository is a showcase of how Vue PDF Viewer can be integrated and rendered as part of an Ionic project.
 
